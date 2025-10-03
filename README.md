@@ -5,10 +5,10 @@
 - 🌱 Always learning and exploring new technologies.
 - 👯 I’m looking to collaborate on new data projects
 
-## Personal Interests:
-- ⚽ Football enthusiast - I love diving into statistics to uncover patterns and performance insights.
-- 🧠 Curious about psychology and how people interact with each other and with technology.
-- ✈️ I love exploring new cities and their local food
+## 🎯 Personal Interests:
+- ⚽ **Football** enthusiast - I love diving into statistics to uncover patterns and performance insights.
+- 🧠 Curious about **psychology** and how people interact with each other and with technology.
+- ✈️ I love **exploring** new cities and their local food
 
 ## 🤓 Fun Fact
 - 🍽️ Eating is my favorite pleasure in life
