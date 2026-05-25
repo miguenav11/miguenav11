@@ -1,13 +1,9 @@
 # Hi there, I'm Miguel 👋
 
-<p align="center">
-  <img src="https://eltime.es/images02/agricultura/Sonrisa_de_Pedri.jpg" alt="Sonrisa de Pedri" width="400"/>
-</p>
-
-- 🚀 I'm on my way to becoming a data analyst, driven by curiosity and love for solving real-world problems.
+- 🚀 I'm on my way to becoming a data engineer, driven by curiosity and love for solving real-world problems.
 - 📊 Big fan of data storytelling - turning numbers into meaningful narratives.
 - 🌱 Always learning and exploring new technologies.
-- 👯 I’m looking to collaborate on new data projects
+- 👯 I’m looking to collaborate on new data projects.
 
 ## 🎯 Personal Interests:
 - ⚽ **Football** enthusiast - I love diving into statistics to uncover patterns and performance insights.
@@ -19,13 +15,16 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, Bash
+- **Languages**: Python, SQL, NoSQL, Bash
 - **Tools**: Linux, Git, Docker, VS Code
+- **Data Processing**: Apache Beam, Kafka, KSQL, Apache NiFi, dbt, API Managements
+- **Cloud**: GCP, Terraform, AWS
+- **Viz**: Tableau
 
 ## 📈 GitHub Stats
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguenav11&show_icons=true&theme=tokyonight)
  ---
 
 ## 📫 How to reach me:
-- LinkedIn: [Miguel Ángel Navarro](https://www.linkedin.com/in/miguel-navarro1112/)
+- LinkedIn: [Miguel Ángel Navarro](https://www.linkedin.com/in/miguelnavarroo/)
 - Email: miguelanav01@gmail.com
